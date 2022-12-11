@@ -1,3 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing:
+}
+
+/*Основні кольори*/
+
 :root {
   --main-text-color: #212121;
   --second-text-color: #757575;
